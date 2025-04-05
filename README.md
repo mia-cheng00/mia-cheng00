@@ -8,7 +8,7 @@
 
 ## 💡 Skills
 - SQL | Python | Tableau | Excel | Marketing Analytics
-- Git & GitHub | Data Storytelling
+- Data-Driven Decision Making | Data Storytelling
 
 ## ✨ Projects
 - Netflix Analytics: https://github.com/mia-cheng00/NetflixProject
