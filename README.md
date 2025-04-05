@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mia 👋  
+*Actuarial Science + Data Analysis*
 
-<!--
-**mia-cheng00/mia-cheng00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Background in Actuarial Science & Information Systems
+- 🔍 Passionate about Data Analytics & Digital Marketing
+- 🛠 Currently building projects that turn data into insights.
 
-Here are some ideas to get you started:
+## 💡 Skills
+- SQL | Python | Tableau | Excel | Marketing Analytics
+- Git & GitHub | Data Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projects
+- 
+
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/miacheng25
+
