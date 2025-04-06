@@ -13,6 +13,4 @@
 ## ✨ Projects
 - Netflix Analytics: https://github.com/mia-cheng00/NetflixProject
 
-## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/miacheng25
 
